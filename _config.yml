@@ -1,0 +1,8 @@
+# Site settings
+title: G2K Flip Card Game
+description: A simple flip card game for learning Khmer words.
+keywords: flip card, learning, Fun
+author: Yong
+avatar: "img/authors/wferr.png"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

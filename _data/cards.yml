@@ -1,0 +1,45 @@
+- title: "ជំរាបសួរ"
+  content: <img src="/img/ipa/hello_formal.png">
+  image: "img/a.jpeg"
+  id: a
+
+- title: "ជំរាបលា"
+  content: <img src="/img/ipa/good-bye_formal.png">
+  image: "img/b.jpeg"
+  id: b
+
+- title: "លាហើយ"
+  content: <img src="/img/ipa/good-bye_informal.png">
+  image: "img/c.jpeg"
+  id: c
+
+- title: "ខ្ញុំ"
+  content: <img src="/img/ipa/i.png">
+  image: "img/d.jpeg"
+  id: d
+
+- title: "បងប្រុស"
+  content: <img src="/img/ipa/older_brother.png">
+  image: "img/e.jpeg"
+  id: e
+
+- title: "បងស្រី"
+  content: <img src="/img/ipa/older_sister.png">
+  image: "img/f.jpeg"
+  id: f
+
+- title: "ប្អូនស្រី"
+  content: <img src="/img/ipa/younger_sister.png">
+  image: "img/g.jpeg"
+  id: g
+
+- title: "ប្អូនប្រុស"
+  content: <img src="/img/ipa/younger_brother.png">
+  image: "img/h.jpeg"
+  id: h
+
+- title: "អ៊ំប្រុស"
+  content: <img src="/img/ipa/older uncle.png">
+  image: "img/i.jpeg"
+  id: i
+
